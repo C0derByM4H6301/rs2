@@ -24,7 +24,7 @@ class RS2:
         "Bilim ve fen nerede ise oradan alacağız ve her ulus kişisinin kafasına koyacağız. Bilim ve fen için kayıt ve şart yokur.\n Mustafa Kemal Atatürk",
         "Bir millet ki resim yapmaz, bir millet ki heykel yapmaz, bir millet ki tekniğin gerektirdiği şeyleri yapmaz, itiraf etmeli ki o milletin ilerleme yolunda yeri yoktur.\n Mustafa Kemal Atatürk",
         "Bir millet eğitim ordusuna sahip olmadıkça, savaş meydanlarında ne kadar parlak zaferler elde ederse etsin, o zaferlerin kalıcı sonuçlar vermesi ancak eğitim ordusuyla mümkündür.\n Mustafa Kemal Atatürk",
-        "Gençliği yetiştiriniz. Onlara ilim ve irfanın müspet fikirlerini veriniz. Geleceğin aydınlığına onlarla kavuşacaksınız.\ Mustafa Kemal Atatürk",
+        "Gençliği yetiştiriniz. Onlara ilim ve irfanın müspet fikirlerini veriniz. Geleceğin aydınlığına onlarla kavuşacaksınız.\n Mustafa Kemal Atatürk",
         "“Sizden farklı düşünen insanların savlarını da dinleyin. Yalnız dikkat edin, cümlenin içerisinde ‘düşünen’ ibaresi var. Bu ayrımı iyi yapın.”\n İlber Ortaylı",
         "“Cahillik hiç ayıplanacak bir şey değildir hatta cahil tutarlıdır kendi içinde. Kötü olan yarı cahillerdir.”\n İlber Otaylı",
         "Ben milletime ikiyüzlülüğü yakıştıramıyorum.\n Çelal Şengör",
